@@ -18,7 +18,7 @@ What I learned in this:
 ![lco](./Screenshots/Web%20capture_23-2-2023_12531_127.0.0.1.jpeg)
 ![lco](./Screenshots/Web%20capture_23-2-2023_125314_127.0.0.1.jpeg)
 
-## [Live Project Link](http://127.0.0.1:5500/BasicCounter/index.html)
+## [Live Project Link](https://brilliant-banoffee-bbe83c.netlify.app)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
